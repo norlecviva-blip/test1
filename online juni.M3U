@@ -217,11 +217,8 @@ http://103.179.182.117:6768/hls/29/29.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 http://103.179.182.117:6768/hls/26/26.m3u8
 
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> KNOWLEDGE
-//========================================================================
+=========================================== KNOWLEDGE GROUP ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KNOWLEDGE
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="CHANNEL | KNOWLEDGE",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -328,7 +325,6 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd4
 //========================================================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | ENTERTAINMENT
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTINF:-1 tvg-id="5256" tvg-name="AFN (HD)" tvg-logo="https://iili.io/Jmo0u3u.png" group-title="CHANNEL | LIFESTYLE", Asian Food Network
@@ -503,9 +499,7 @@ https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd 
 
 <=============== Kids Channels =====================>
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KIDS
-
 #EXTINF:-1 group-title="CHANNEL | KIDS" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
@@ -569,11 +563,8 @@ https://streaming.indihometv.com/atm/DASH/mykids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-
 <=============== MOVIES Channels =====================>
-
 #EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.pngg",CHANNEL | MOVIES
-
 #EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -713,7 +704,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 <=============== SPORT Channels =====================>
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORT
 #EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.pngg",CHANNEL | SPORT
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="CHANNEL | FIRSTMEDIA",Champions TV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -751,9 +742,10 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash 
 
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s",Eurosport HD 
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s",Eurosport HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a 
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
 
