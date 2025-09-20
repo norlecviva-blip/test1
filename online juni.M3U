@@ -82,7 +82,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 ######################
 ######## News #########
 ######################
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL TV | NEWS
+#EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.png",CHANNEL TV | NEWS
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -160,42 +160,42 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
 =========================================== HBO GROUP ===========================================
 #EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.png",CHANNEL | group-title="CHANNEL | HBO GROUP"
-#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID:HBO Signature HD
+#EXTINF:-1 group-title="CHANNEL | HBO GROUP" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID:HBO Signature HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302251.ts
-#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: HBO HD
+#EXTINF:-1 group-title="CHANNEL | HBO GROUP" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: HBO HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501248.ts
-#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID:  HBO HITS 
+#EXTINF:-1 group-title="CHANNEL | HBO GROUP" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID:  HBO HITS 
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501250.ts
 
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="CHANNEL | HBO GRUB",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="CHANNEL | HBO GROUP",HBO
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 http://103.179.182.117:6768/hls/27/27.m3u8
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="CHANNEL | HBO GRUB",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="CHANNEL | HBO GROUP",HBO Hits
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 http://103.179.182.117:6768/hls/28/28.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="CHANNEL | HBO GRUB",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="CHANNEL | HBO GROUP",HBO Family
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 http://103.179.182.117:6768/hls/30/30.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="CHANNEL | HBO GRUB",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="CHANNEL | HBO GROUP",HBO Signature
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 http://103.179.182.117:6768/hls/29/29.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="CHANNEL | HBO GRUB",Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="CHANNEL | HBO GROUP",Cinemax
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -203,7 +203,7 @@ http://103.179.182.117:6768/hls/29/29.m3u8
 http://103.179.182.117:6768/hls/26/26.m3u8
 
 =========================================== KNOWLEDGE GROUP ===========================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KNOWLEDGE
+#EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.png",CHANNEL | KNOWLEDGE
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="CHANNEL | KNOWLEDGE",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -484,7 +484,7 @@ https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd 
 
 <=============== Kids Channels =====================>
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KIDS
+#EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.png",CHANNEL | KIDS
 #EXTINF:-1 group-title="CHANNEL | KIDS" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
@@ -684,7 +684,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 <=============== SPORT Channels =====================>
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORT
+#EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.png",CHANNEL | SPORT
 #EXTINF:-1 group-logo="https://i.postimg.cc/BvmrwVd7/Logo-live-streeming.pngg",CHANNEL | SPORT
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="CHANNEL | SPORT",Champions TV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -727,6 +727,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a 
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
 
 
 
