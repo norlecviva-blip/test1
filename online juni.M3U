@@ -40,12 +40,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1 tvg-id="--" group-title="CHANNEL | INDONESIA"  tvg-logo="https://images.indihometv.com/logo_inews_big.png", Inews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1X4k7gmF/KOMPAS-TV.png" group-title="CHANNEL | INDONESIA",Kompas TV HD
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/kompastv.png" group-title="CHANNEL | INDONESIA",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -727,6 +727,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a 
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
 
 
 
