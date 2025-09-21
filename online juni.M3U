@@ -737,7 +737,9 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SPORTS" group-title="CHANNEL | SPORT",Champions TV 6 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 http://103.197.189.26/chtv6/index.m3u8
+
 
 
 
