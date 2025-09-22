@@ -338,17 +338,16 @@ https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-logo="https://iili.io/Jmo0AYb.png" group-title="CHANNEL | LIFESTYLE", TLC Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXqvzWkfMRnFGIA3-NAYgzytxk3rqMzP3cQ&s" group-title="LifeStyle" ,RAI ITALIA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXqvzWkfMRnFGIA3-NAYgzytxk3rqMzP3cQ&s,RAI ITALIA
+#EXTINF:-1 tvg-id="" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXqvzWkfMRnFGIA3-NAYgzytxk3rqMzP3cQ&s" ,RAI ITALIA
 https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyFfxdH-239ICH0qUJNpZsy328qiEO3kkxw&s, TV5 Monde Asie
+#EXTINF:-1 tvg-id="" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyFfxdH-239ICH0qUJNpZsy328qiEO3kkxw&s" ,TV5 Monde Asie
 https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -733,6 +732,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SPORTS" group-title="CHANNEL | SPORT",Champions TV 6 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+
 
 
 
