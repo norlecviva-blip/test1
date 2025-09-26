@@ -75,13 +75,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvg-logo="https://raw.githubusercontent.com/norlecviva-blip/Images-Ch/main/MDTV.png",MDTV
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbak_MpWEim44NWEDJsGjDHEHSfm_FlfvjQ&s",NUSANTARA
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvg-logo="https://raw.githubusercontent.com/norlecviva-blip/Images-Ch/main/NUSANTARA_TV.png",NUSANTARA
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -101,13 +101,13 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg", CGTN 
+#EXTINF:-1 group-title="CHANNEL | NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/norlecviva-blip/Images-Ch/main/CGTN.png", CGTN 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd 
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://iili.io/JhksBZG.png" group-title="CHANNEL | NEWS", Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/norlecviva-blip/Images-Ch/main/ALJAZEERA%20(1).png" group-title="CHANNEL | NEWS", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://warningfm.github.io/v3/live/str/ns/f5f5c18cf037919.m3u8
 
@@ -160,7 +160,7 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68 
 https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd 
-#EXTINF:-1 group-title="CHANNEL | NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", Arirang HD 
+#EXTINF:-1 group-title="CHANNEL | NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/norlecviva-blip/Images-Ch/main/ARIRANG.png", Arirang HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012 
@@ -732,6 +732,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SPORTS" group-title="CHANNEL | SPORT",Champions TV 6 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+
 
 
 
